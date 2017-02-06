@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "0.2.0-13",
-      "download-url": "https://storage.googleapis.com/flimfit-downloads/flim_ui-0.2.0-13-g5c423d8-win64.exe",
-      "changelog": "Updates"
+      "latest-version": "0.2.2",
+      "download-url": "https://storage.googleapis.com/flimfit-downloads/flim-ui/flim_ui-0.2.2-win64.exe",
+      "changelog": "* Fixed bug rendering fast-loading FLIM\n* Fixed bug loading FFD files with sync errors"
     }
   }
 }
